@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Kagamia Studio")]
 [assembly: AssemblyProduct("CharaSimResource")]
-[assembly: AssemblyCopyright("Copyright by 癫ω倒④ゞ")]
+[assembly: AssemblyCopyright("Copyright © Kagamia Studio")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
