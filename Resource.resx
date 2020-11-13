@@ -1159,4 +1159,16 @@
   <data name="CashShop_img_CashItem_label_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\CashShop.img.CashItem_label.5.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="CashShop_img_CashItem_label_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.6.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CashShop_img_CashItem_label_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.7.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CashShop_img_CashItem_label_8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.8.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CashShop_img_CashItem_label_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CashShop.img.CashItem_label.9.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
