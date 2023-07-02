@@ -1099,6 +1099,9 @@
     <None Include="Resources\CashShop.img.CashItem_label.8.png" />
     <None Include="Resources\CashShop.img.CashItem_label.9.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIWindow2.img.Skill.skillTypeIcon.origin.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
