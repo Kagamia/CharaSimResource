@@ -1102,6 +1102,21 @@
   <ItemGroup>
     <None Include="Resources\UIWindow2.img.Skill.skillTypeIcon.origin.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Skill.Frame.cover.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Skill.Frame.dotline_c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Skill.Frame.dotline_e.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Skill.Frame.dotline_w.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UIToolTip.img.Skill.Frame.iconBackgrnd.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
