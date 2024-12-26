@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net462;netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>net462;netstandard2.0;net6;net8</TargetFrameworks>
     <AssemblyName>CharaSimResource</AssemblyName>
     <RootNamespace>CharaSimResource</RootNamespace>
     <IsPublishable>false</IsPublishable>
@@ -16,7 +16,10 @@
   <PropertyGroup Condition="$([System.Text.RegularExpressions.Regex]::IsMatch($(TargetFramework), '^net4'))">
     <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
   </PropertyGroup>
-  <ItemGroup Condition="$([System.Text.RegularExpressions.Regex]::IsMatch($(TargetFramework), '^(net[6-8]|netstandard)'))">
+  <ItemGroup Condition="$([System.Text.RegularExpressions.Regex]::IsMatch($(TargetFramework), '^net8'))">
+    <PackageReference Include="System.Drawing.Common" Version="8.0.11" />
+  </ItemGroup>
+  <ItemGroup Condition="$([System.Text.RegularExpressions.Regex]::IsMatch($(TargetFramework), '^(net6|netstandard)'))">
     <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup Condition="$([System.Text.RegularExpressions.Regex]::IsMatch($(TargetFramework), '^net4'))">
@@ -24,7 +27,7 @@
     <Reference Include="System.Drawing" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="System.Resources.Extensions" Version="7.0.0" />
+    <PackageReference Include="System.Resources.Extensions" Version="8.0.0" />
   </ItemGroup>
   <ItemGroup>
     <None Remove=".git*" />
