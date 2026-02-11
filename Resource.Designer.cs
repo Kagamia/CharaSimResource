@@ -2083,6 +2083,216 @@ namespace CharaSimResource {
         /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround__AppearanceArea_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround__AppearanceArea_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Grade_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Grade_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_3 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_4 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_5 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_6 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0__Symbol_7 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0__Symbol_7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0_0 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0_0", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_0_MontserMask {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_0_MontserMask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_1_1 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_1_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIFamiliar_img_ToolTip__BackGround_2 {
+            get {
+                object obj = ResourceManager.GetObject("UIFamiliar_img_ToolTip__BackGround_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
         public static System.Drawing.Bitmap UIToolTip_img_Item_Equip_AddOption_0 {
             get {
                 object obj = ResourceManager.GetObject("UIToolTip_img_Item_Equip_AddOption_0", resourceCulture);
@@ -3746,6 +3956,16 @@ namespace CharaSimResource {
         public static System.Drawing.Bitmap UIWindow2_img_MiniMap_MaxMapMirror_w {
             get {
                 object obj = ResourceManager.GetObject("UIWindow2_img_MiniMap_MaxMapMirror_w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找 System.Drawing.Bitmap 类型的本地化资源。
+        /// </summary>
+        public static System.Drawing.Bitmap UIWindow2_img_Skill_skillTypeIcon_ascent {
+            get {
+                object obj = ResourceManager.GetObject("UIWindow2_img_Skill_skillTypeIcon_ascent", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

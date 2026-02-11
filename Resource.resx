@@ -1267,4 +1267,70 @@
   <data name="UIFamiliar_img_jewel_unique_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIFamiliar.img.jewel.unique.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0_MontserMask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0.MontserMask.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Grade_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Grade.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_0__Symbol_7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.0._Symbol.7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.1.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround.2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIFamiliar_img_ToolTip__BackGround__AppearanceArea_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIFamiliar.img.ToolTip._BackGround._AppearanceArea.0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow2_img_Skill_skillTypeIcon_ascent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow2.img.Skill.skillTypeIcon.ascent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
