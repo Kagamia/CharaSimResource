@@ -1267,4 +1267,55 @@
   <data name="UIFamiliar_img_jewel_unique_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\UIFamiliar.img.jewel.unique.5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="MapHelper_img_minimap_arrowup" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.arrowup.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_cluster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.cluster.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_enchantportal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.enchantportal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_eventnpc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.eventnpc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_hiddenportal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.hiddenportal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_mob_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.mob.1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_npc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.npc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_portal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.portal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_shop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.shop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_transport" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.transport.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MapHelper_img_minimap_trunk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MapHelper.img.minimap.trunk.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_Mob" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.Mob.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_Npc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.Npc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_ArcaneForce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.ArcaneForce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_AuthenticForce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.AuthenticForce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_StarForce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.StarForce.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="UIWindow_img_ToolTip_WorldMap_Custom0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\UIWindow.img.ToolTip.WorldMap.Custom0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
